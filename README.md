@@ -20,16 +20,17 @@ Perfect as a starting point for your own bots without using paid builders or lim
 ## Installation
 
 ```bash
-# Clone the repository
+1. clone the repository
 git clone https://github.com/Asker22998/telegram-bot-template/
 cd your-bot-template
 
-# Install dependencies
+2. install dependencies
+
 pip install -r requirements.txt
 
-# Create .env file
-echo "BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN" > .env
+3. change the token in .env
 
-# Run the bot
+4. run the bot
+
 python main.py
 
