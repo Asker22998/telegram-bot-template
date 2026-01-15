@@ -1,5 +1,4 @@
-# telegram-bot-template
-# Telegram Bot Template (aiogram 3)
+# Telegram Bot Template 
 
 A lightweight, fast and secure Telegram bot template built with **Python** and **aiogram 3**.  
 Perfect as a starting point for your own bots without using paid builders or limited platforms.
